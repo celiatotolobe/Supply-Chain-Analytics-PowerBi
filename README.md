@@ -34,3 +34,7 @@ Inventory Analysis
 - Add predictive analytics for demand forecasting
 - Implement supplier risk scoring
 - Integrate SQL database connection
+
+# Contact
+Celia Toto Lobe
+LinkedIn: www.linkedin.com/in/celia-totolobe
